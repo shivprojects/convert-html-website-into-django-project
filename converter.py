@@ -191,8 +191,6 @@ class HtmlToDjango():
 if __name__ == "__main__":
     #--------------------------------------------#
     workdir = os.getcwd()
-    #html_website = os.path.join(workdir,"website/")
-    #project_name = "sensusedusoft"
     html_website = ""
     project_name = ""
 
